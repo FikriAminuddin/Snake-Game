@@ -53,7 +53,7 @@ body{
 }
 
 .controls{
-    display: none;
+    display: flex;
     justify-content: space-between;
 }
 
